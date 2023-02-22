@@ -30,7 +30,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['totes7-django-todo-app.herokuapp.com/']
+ALLOWED_HOSTS = ['totes7-django-todo-app.herokuapp.com']
 
 
 # Application definition
